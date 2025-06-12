@@ -1,0 +1,16 @@
+.cart-list {
+  padding-left: 0px;
+}
+.cart-remove-all-container {
+  display: flex;
+  justify-content: flex-end;
+  font-family: 'Roboto';
+}
+.remove-all-btn {
+  color: #0b69ff;
+  background-color: transparent;
+  border-width: 0px;
+  font-weight: 700;
+  font-size: 15px;
+  margin-bottom: 20px;
+}
